@@ -1,0 +1,12 @@
+C:\Users\windows11\source\repos\BirdsProject\BirdsProject\bin\Debug\BirdsProject.exe.config
+C:\Users\windows11\source\repos\BirdsProject\BirdsProject\bin\Debug\BirdsProject.exe
+C:\Users\windows11\source\repos\BirdsProject\BirdsProject\bin\Debug\BirdsProject.pdb
+C:\Users\windows11\source\repos\BirdsProject\BirdsProject\obj\Debug\BirdsProject.csproj.AssemblyReference.cache
+C:\Users\windows11\source\repos\BirdsProject\BirdsProject\obj\Debug\BirdsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\windows11\source\repos\BirdsProject\BirdsProject\obj\Debug\BirdsProject.MainWindow.resources
+C:\Users\windows11\source\repos\BirdsProject\BirdsProject\obj\Debug\BirdsProject.Properties.Resources.resources
+C:\Users\windows11\source\repos\BirdsProject\BirdsProject\obj\Debug\BirdsProject.SignUp.resources
+C:\Users\windows11\source\repos\BirdsProject\BirdsProject\obj\Debug\BirdsProject.csproj.GenerateResource.cache
+C:\Users\windows11\source\repos\BirdsProject\BirdsProject\obj\Debug\BirdsProject.csproj.CoreCompileInputs.cache
+C:\Users\windows11\source\repos\BirdsProject\BirdsProject\obj\Debug\BirdsProject.exe
+C:\Users\windows11\source\repos\BirdsProject\BirdsProject\obj\Debug\BirdsProject.pdb
